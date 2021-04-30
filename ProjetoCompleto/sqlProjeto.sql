@@ -1,0 +1,1 @@
+SELECT * FROM dm2021n.chu_chuteira;
